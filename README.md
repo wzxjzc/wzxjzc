@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- Major in CSIE  
+- Studnet of CSIE  
 - Exploring frontend tech & building side projects  
 - Dreaming of becoming a Frontend Engineer  
 - *"Code what you love. Learn what you fear."*
