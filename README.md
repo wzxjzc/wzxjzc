@@ -7,23 +7,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsumingjen&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-
+###
 
 ## 🚀 About Me
 
 - Major in CSIE  
 - Exploring frontend tech & building side projects  
-- Dreaming of becoming a Frontend Engineer
-- "Code what you love. Learn what you fear."
+- Dreaming of becoming a Frontend Engineer  
+- *"Code what you love. Learn what you fear."*
 
 ###
 
 ## 🛠 Projects
 
 - 🎨 [**Portfolio Website**](https://wzxjzc.github.io)  
-  My personal site to showcase side projects and experiments
-
-
+  Personal site to showcase side projects and experiments
 
 ###
 
@@ -33,8 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
@@ -49,6 +47,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/m>
 
