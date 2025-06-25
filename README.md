@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm William Hsu</h2>
+<h2 align="left">👋Hi! I'm William Hsu</h2>
 
 ###
 
