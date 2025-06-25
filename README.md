@@ -20,8 +20,7 @@
 
 ## 🛠 Projects
 
-- 🎨 [**Portfolio Website**](https://wzxjzc.github.io)  
-  Personal site to showcase side projects and experiments
+
 
 ###
 
