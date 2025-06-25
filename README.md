@@ -7,11 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsumingjen&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
 
-<img align="right" height="150" src="C:\Users\USER\Downloads\62ebf4ca-889a-4a71-a37b-93cb943571ce.jfif" alt="coding gif" />
-
-###
 
 ## 🚀 About Me
 
@@ -54,5 +50,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/m
+<img src="https://raw.githubusercontent.com/maurodesouza/m>
 
