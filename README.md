@@ -9,27 +9,25 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img align="right" height="150" src="C:\Users\USER\Downloads\62ebf4ca-889a-4a71-a37b-93cb943571ce.jfif" alt="coding gif" />
 
 ###
 
 ## 🚀 About Me
 
-- 🧑‍🎓 Major in CSIE  
-- 🎯 Exploring frontend tech & building side projects  
-- ✈️ Dreaming of becoming a Frontend Engineer
-- 🌱 Currently learning: React, TailwindCSS, GSAP  
-- 💬 "Code what you love. Learn what you fear."
+- Major in CSIE  
+- Exploring frontend tech & building side projects  
+- Dreaming of becoming a Frontend Engineer
+- "Code what you love. Learn what you fear."
 
 ###
 
 ## 🛠 Projects
 
-- 🎨 [**Portfolio Website**](https://hsumingjen.github.io)  
+- 🎨 [**Portfolio Website**](https://wzxjzc.github.io)  
   My personal site to showcase side projects and experiments
 
-- 🎮 **Typing Meme Game** (WIP)  
-  A fun little game where typos trigger memes
+
 
 ###
 
